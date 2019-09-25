@@ -13,8 +13,8 @@ android {
         applicationId "xeffyr.alpine.term"
         minSdkVersion 24
         targetSdkVersion 28
-        versionCode 852
-        versionName "8.5.2"
+        versionCode 853
+        versionName "8.5.3"
 
         externalNativeBuild {
             ndkBuild {
